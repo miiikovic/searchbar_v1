@@ -121,3 +121,7 @@ body {
     background: #CB1C8D;
     transform: rotate(315deg);
 }
+
+#mysearch {
+    color: #fff;
+}
