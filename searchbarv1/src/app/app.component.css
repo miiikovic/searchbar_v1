@@ -108,7 +108,7 @@ body {
     content: '';
     width: 1px;
     height: 15px;
-    background: #CB1C8D;
+    background: #fff;
     transform: rotate(45deg);
 
 }
@@ -118,7 +118,7 @@ body {
     content: '';
     width: 1px;
     height: 15px;
-    background: #CB1C8D;
+    background: #fff;
     transform: rotate(315deg);
 }
 
